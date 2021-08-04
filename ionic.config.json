@@ -1,0 +1,7 @@
+{
+  "name": "ITinnovCalculette",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
